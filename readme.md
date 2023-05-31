@@ -15,3 +15,10 @@ chmod +x flask-create.sh
 chmod +x flask-create.command
 chmod +x flask-init.sh
 chmod +x flask-init.command
+
+
+
+```bash
+pip install -r requirements.txt #Install the requirements.txt
+pip freeze > requirements.txt #Create the requirements.txt
+```
